@@ -8,6 +8,7 @@ I am organized, proactive and someone who is continuously bettering myself throu
 - 🌱 I’m currently working on some projects in Devops field.
 - 💬 Ask me about AWS & Linux & Python & HTML & CSS & AGILE-JIRA & Docker & Kubernetes & Ansible & Terraform & Jenkins 📚 👨🏻‍🏫
 - 📫 How to reach me: www.linkedin.com/in/yasintuten
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasint23 &theme=radical)
 
 
 
